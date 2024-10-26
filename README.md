@@ -1,3 +1,7 @@
+<img src="assets/title.png" alt="Title" width="100%"></img>
+
+# Gemini Code Assist for Developer
+
 1. Code Generation Harry Potter website
 ```
 สร้างเว็บไซต์แบบ Static ที่มีช่องกรอกชื่อ จากนั้นสุ่มบ้านในแฮร์รี่ พอตเตอร์ให้ และแสดงชื่อและบ้านของคุณ โดยใช้ HTML และ JavaScript
@@ -7,7 +11,7 @@
 
 2. Code completion
 - Open file `line_boardcast_harry.py`
-- Generate code inside
+- Generate code inside by Highlight comment Prompt and Click Generate
 
 
 3. Test Generation
@@ -19,9 +23,10 @@ Open file   `commons/play_tic_tac_toe.py`
 Generate mermaid js flow chart diagram to describe logic of this code
 ```
 
-็็```
+```
 Write Python DocString as a Document for this code 
 ```
 
+
 5. Code Exlpain 
-High light part of code in `line_boardcast_harry.py`
+High light part of code in `line_boardcast_harry.py` and Click Explain
