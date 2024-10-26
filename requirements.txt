@@ -1,0 +1,2 @@
+functions-framework
+line-bot-sdk==3.13.0
